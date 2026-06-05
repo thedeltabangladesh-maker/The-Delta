@@ -1,0 +1,103 @@
+# ─────────────────────────────────────────────────────────────
+#  VISUAL EDITOR SETTINGS
+#  ⚠️  Set "repo" below to your GitHub username/repository,
+#      e.g.  repo: zawad/the-delta
+#  Nothing else here needs changing to get started.
+# ─────────────────────────────────────────────────────────────
+
+backend:
+  name: github
+  repo: YOUR_GITHUB_USERNAME/YOUR_REPO_NAME # ← CHANGE THIS
+  branch: main
+  # No auth server needed: hosting on Netlify uses Netlify's built-in
+  # GitHub login (set up once in the Netlify dashboard — see README).
+
+# Where uploaded photos are saved, and how the site refers to them.
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+# Saves drafts as separate commits so nothing publishes by accident
+# until you click Publish.
+publish_mode: editorial_workflow
+
+collections:
+  - name: "articles"
+    label: "Articles"
+    label_singular: "Article"
+    description: "Your stories. Click “New Article” to write one."
+    folder: "src/content/articles"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    summary: "{{title}}  —  {{category}}"
+    sortable_fields: ["pubDate", "title", "category"]
+    fields:
+      - { name: "title", label: "Headline", widget: "string" }
+      - {
+          name: "dek",
+          label: "Summary / standfirst",
+          widget: "text",
+          required: false,
+          hint: "One or two sentences shown under the headline and on the home page.",
+        }
+      - name: "category"
+        label: "Topic"
+        widget: "select"
+        default: "Climate & Adaptation"
+        options:
+          - "Climate & Adaptation"
+          - "Rivers & Water"
+          - "Energy & Emissions"
+          - "Agriculture & Food"
+          - "Pollution & Health"
+          - "Biodiversity & Forests"
+          - "Coast & Sundarbans"
+          - "Policy & Governance"
+      - {
+          name: "author",
+          label: "Author byline",
+          widget: "string",
+          required: false,
+          default: "The Delta Desk",
+        }
+      - {
+          name: "pubDate",
+          label: "Publish date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "YYYY-MM-DD",
+        }
+      - {
+          name: "heroImage",
+          label: "Lead image",
+          widget: "image",
+          required: false,
+          hint: "Optional. The large photo at the top of the story.",
+        }
+      - {
+          name: "heroCaption",
+          label: "Image caption / credit",
+          widget: "string",
+          required: false,
+        }
+      - {
+          name: "featured",
+          label: "Feature on home page",
+          widget: "boolean",
+          default: false,
+          hint: "Pin this story to the top of the front page.",
+        }
+      - {
+          name: "draft",
+          label: "Draft (hide from public site)",
+          widget: "boolean",
+          default: false,
+        }
+      - {
+          name: "body",
+          label: "Article body",
+          widget: "markdown",
+          hint: "Write your story here. Add subheadings, links, quotes and images.",
+        }

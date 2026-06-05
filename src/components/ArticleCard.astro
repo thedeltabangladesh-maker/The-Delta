@@ -1,0 +1,28 @@
+---
+import type { Article } from '../lib/articles';
+import { slugify, formatDateShort } from '../lib/articles';
+import { SITE } from '../consts';
+
+interface Props {
+  article: Article;
+}
+const { article } = Astro.props;
+const { data, id } = article;
+const author = data.author || SITE.defaultAuthor;
+---
+
+<article class="card">
+  <a href={`/articles/${id}`} class="card-media" aria-hidden="true" tabindex="-1">
+    {data.heroImage ? (
+      <img src={data.heroImage} alt="" loading="lazy" />
+    ) : (
+      <div class="card-media placeholder"><div class="placeholder-art">{data.category}</div></div>
+    )}
+  </a>
+  <a class="kicker" href={`/category/${slugify(data.category)}`}>{data.category}</a>
+  <h3><a href={`/articles/${id}`}>{data.title}</a></h3>
+  {data.dek && <p class="dek">{data.dek}</p>}
+  <p class="meta">
+    <span class="author">{author}</span> · {formatDateShort(data.pubDate)}
+  </p>
+</article>

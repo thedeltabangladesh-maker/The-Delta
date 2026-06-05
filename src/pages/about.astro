@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+---
+
+<BaseLayout title="About" description={`About ${SITE.name}.`}>
+  <div class="pagehead">
+    <span class="kicker">About</span>
+    <h1>About {SITE.name}</h1>
+    <p>{SITE.tagline}</p>
+  </div>
+
+  <div class="page-body">
+    <p>
+      {SITE.name} publishes independent reporting and policy analysis on the
+      environmental questions shaping Bangladesh: its rivers and floodplains,
+      the climate pressures on its coast, the politics of energy and emissions,
+      and the lives of the people who live closest to the water.
+    </p>
+    <p>
+      Bangladesh sits at the mouth of the world’s largest delta, where the
+      Ganges, Brahmaputra and Meghna meet the Bay of Bengal. It is one of the
+      most climate-exposed nations on earth — and one of the most inventive in
+      its response. This is a space to document both.
+    </p>
+
+    <h2>Get in touch</h2>
+    <p>
+      Story tips, corrections and commissioning enquiries are welcome.
+      {SITE.links.email && (
+        <>Write to <a href={`mailto:${SITE.links.email}`}>{SITE.links.email}</a>.</>
+      )}
+    </p>
+
+    <h2>Editing this page</h2>
+    <p>
+      This is placeholder text. To change it, edit
+      <code>src/pages/about.astro</code> in your project, or rewrite it however
+      you like — then commit, and the site updates itself.
+    </p>
+  </div>
+</BaseLayout>

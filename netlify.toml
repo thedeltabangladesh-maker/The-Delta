@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Send the old /admin path (no slash) to the CMS without a redirect loop.
+[[redirects]]
+  from = "/admin"
+  to = "/admin/"
+  status = 301

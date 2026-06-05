@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getPublishedArticles, slugify } from '../../lib/articles';
+import { CATEGORIES } from '../../consts';
+
+export async function getStaticPaths() {
+  const articles = await getPublishedArticles();
+  // Build a page for every category that has at least one article,
+  // plus all the predefined topics (so empty ones still resolve).
+  const names = new Set<string>(CATEGORIES as readonly string[]);
+  articles.forEach((a) => names.add(a.data.category));
+
+  return Array.from(names).map((name) => ({
+    params: { category: slugify(name) },
+    props: {
+      name,
+      articles: articles.filter((a) => a.data.category === name),
+    },
+  }));
+}
+
+const { name, articles } = Astro.props;
+---
+
+<BaseLayout title={name} description={`Reporting and analysis filed under ${name}.`}>
+  <div class="pagehead">
+    <span class="kicker">Topic</span>
+    <h1>{name}</h1>
+    <p>{articles.length} {articles.length === 1 ? 'story' : 'stories'}</p>
+  </div>
+
+  <section class="wrap section">
+    {articles.length > 0 ? (
+      <div class="grid">
+        {articles.map((a) => <ArticleCard article={a} />)}
+      </div>
+    ) : (
+      <p style="font-family: var(--font-serif); font-size: 1.15rem; color: var(--ink-soft); text-align:center; padding: 2rem 0;">
+        No stories in this topic yet.
+      </p>
+    )}
+  </section>
+</BaseLayout>

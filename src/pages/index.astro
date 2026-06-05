@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getPublishedArticles, slugify, formatDate } from '../lib/articles';
+import { SITE, CATEGORIES } from '../consts';
+
+const articles = await getPublishedArticles();
+
+// Lead = newest featured story, else newest overall.
+const lead = articles.find((a) => a.data.featured) ?? articles[0];
+const rest = articles.filter((a) => a.id !== lead?.id);
+const leadAuthor = lead ? lead.data.author || SITE.defaultAuthor : '';
+---
+
+<BaseLayout>
+  {lead && (
+    <section class="wrap">
+      <article class="lead">
+        <div>
+          <a class="kicker" href={`/category/${slugify(lead.data.category)}`}>{lead.data.category}</a>
+          <h1><a href={`/articles/${lead.id}`}>{lead.data.title}</a></h1>
+          {lead.data.dek && <p class="dek">{lead.data.dek}</p>}
+          <p class="meta">
+            <span class="author">{leadAuthor}</span> · {formatDate(lead.data.pubDate)}
+          </p>
+        </div>
+        <a href={`/articles/${lead.id}`} class="lead-media" aria-hidden="true" tabindex="-1">
+          {lead.data.heroImage ? (
+            <img src={lead.data.heroImage} alt="" />
+          ) : (
+            <div class="lead-media placeholder"><div class="placeholder-art">{lead.data.category}</div></div>
+          )}
+        </a>
+      </article>
+    </section>
+  )}
+
+  {rest.length > 0 && (
+    <section class="wrap section">
+      <div class="section-head"><h2>Latest</h2></div>
+      <div class="grid">
+        {rest.map((article) => <ArticleCard article={article} />)}
+      </div>
+    </section>
+  )}
+
+  {!lead && (
+    <section class="wrap section">
+      <p style="font-family: var(--font-serif); font-size: 1.2rem; color: var(--ink-soft); text-align:center; padding: 3rem 0;">
+        No articles yet. Open <code>/admin</code> to publish your first story.
+      </p>
+    </section>
+  )}
+
+  <section class="wrap section" style="border-top: 1px solid var(--line);">
+    <div class="section-head"><h2>Browse topics</h2></div>
+    <div class="chips" style="justify-content:flex-start;">
+      {CATEGORIES.map((c) => (
+        <a class="chip" href={`/category/${slugify(c)}`}>{c}</a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>
