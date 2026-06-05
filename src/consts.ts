@@ -18,7 +18,7 @@ export const SITE = {
   publisher: 'The Delta',
   /** Optional social / contact links shown in the footer. Leave '' to hide. */
   links: {
-    email: 'editor@example.com',
+    email: 'thedeltabangladesh@gmail.com',
     twitter: '', // e.g. 'https://twitter.com/yourhandle'
     facebook: '',
   },
