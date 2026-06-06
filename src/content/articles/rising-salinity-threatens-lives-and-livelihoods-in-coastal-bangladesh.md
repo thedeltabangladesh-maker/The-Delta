@@ -2,7 +2,7 @@
 title: Rising salinity threatens lives and livelihoods in coastal Bangladesh
 dek: Rising salinity in coastal Bangladesh is destroying farmland, contaminating drinking water, and forcing communities into poverty and displacement. Climate change and sea-level rise are accelerating the problem, leaving millions with shrinking options and deteriorating health.
 category: Climate & Adaptation
-author: The Delta Desk (First published in The Daily Star)
+author: The Delta Desk (First published on The Daily Star)
 pubDate: 2025-11-11
 heroImage: /uploads/untitled_design.png
 heroCaption: ''
@@ -28,7 +28,7 @@ The entirety of Khulna and its constituents are extremely low-lying areas, with 
 
 Women bear the hidden cost of saltwater intrusion, not just in their homes, but within their bodies. The stakes are particularly high for expectant mothers. Research shows that women who drink highly saline water (over 300 mg/L of salt) face a 3.3 to 5.5 times higher risk of pregnancy-related hypertension than those who consume less saline water. In coastal areas, women during the dry season can ingest 5–16 grams of sodium a day just from drinking water, compared to only 0.6–1.2 grams in the wetter months.
 
-![](/uploads/Durga%20Rani%20Munda.jpg "Durga Rani Munda, a member of the Munda community and victim of rising salinity ")
+![](/uploads/Durga%20Rani%20Munda.jpg "Durga Rani Munda, a member of the Munda community and victim of rising salinity")
 
 Durga Rani Munda, 47, broke down in tears as she described her helplessness and frustration. Skin infections and salt rashes are common, she said, but what hurts more is how men and society often ignore the more intimate struggles women endure. "We rarely have access to sanitary pads," she explained softly. "Most of us use old pieces of cloth, wash them in salty water, and reuse them. Some even take period-stopping pills just to avoid the pain and shame."
 
