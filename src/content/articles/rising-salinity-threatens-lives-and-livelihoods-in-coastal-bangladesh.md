@@ -2,7 +2,7 @@
 title: Rising salinity threatens lives and livelihoods in coastal Bangladesh
 dek: Rising salinity in coastal Bangladesh is destroying farmland, contaminating drinking water, and forcing communities into poverty and displacement. Climate change and sea-level rise are accelerating the problem, leaving millions with shrinking options and deteriorating health.
 category: Climate & Adaptation
-author: The Delta Desk (First published on The Daily Star)
+author: The Delta Desk and MD Shihab Sharear (First published on The Daily Star)
 pubDate: 2025-11-11
 heroImage: /uploads/untitled_design.png
 heroCaption: ''
