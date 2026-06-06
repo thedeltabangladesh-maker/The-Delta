@@ -6,7 +6,7 @@ import sitemap from '@astrojs/sitemap';
 // or your own domain). It is used for the sitemap, RSS feed and the
 // canonical/SEO tags that Google reads. Everything still works locally
 // if you leave it, but update it before your first real deploy.
-const SITE_URL = 'https://the-delta.netlify.app';
+const SITE_URL = 'https://thedeltabangladesh.netlify.app';
 
 export default defineConfig({
   site: SITE_URL,
