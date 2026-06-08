@@ -14,6 +14,8 @@ I have stopped being moved by World Environment Day. Every June the speeches arr
 
 I used to think the problem was that people did not know. That if we explained it well enough, showed the right photo of the right dead river, something would shift. I do not believe that anymore. Everyone knows. The minister knows. The man who owns the tannery upstream knows better than anyone. Awareness was never the thing we were short of.
 
+![](/uploads/pexels-shardar-tarikul-islam-84327533-9090149.jpg "Photo Credit: Pexels")
+
 We even know the culprits by name. The Department of Environment has identified nine industrial zones around Dhaka as the main sources of what goes into our rivers. Nine. We have the list. The tanneries alone pour roughly 21,600 cubic metres of toxic waste into the Buriganga every single day, and the city tips in around 4,500 tonnes of solid waste on top of that, most of it ending up in the same water. This is not a mystery we are still trying to crack. We cracked it years ago. We just filed the answer away and moved on.
 
 And we have the laws, too, which is what makes the whole thing so maddening. Bangladesh has environmental courts. It has a river commission whose entire reason to exist is protecting rivers like this one. In 2019 we drafted a Clean Air Bill with real penalties in it, fines and prison time for the worst offenders. On paper, the Buriganga is one of the better-protected rivers in the region.
