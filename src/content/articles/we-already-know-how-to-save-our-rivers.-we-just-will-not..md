@@ -32,6 +32,6 @@ And now, suddenly, the rivers are turning up in politics. Parties are writing th
 
 But I keep tripping on the same thought. We already have the laws. We already have the list of nine zones. If the will to act existed, we would not need fresh promises. We would just use what's already sitting in the drawer.
 
-So I do not want to hear another pledge to save the Buriganga. I've heard those. I want something far less exciting than a pledge. I want one tannery actually shut and kept shut. I want a fine that's actually collected. I want the boring, thankless, unphotogenic work of making the rules mean something, because that, and not awareness, is the only thing that was ever missing.
+So I do not want to hear another pledge to save the Buriganga. I have heard those. I want something far less exciting than a pledge. I want one tannery actually shut and kept shut. I need the fine to be collected. I want the boring, thankless, unphotogenic work of making the rules mean something, because that, and not awareness, is the only thing that was ever missing.
 
 The river has heard every speech it needs. It is still waiting on the rest of us.
