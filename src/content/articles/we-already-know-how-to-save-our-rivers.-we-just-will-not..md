@@ -4,7 +4,7 @@ dek: Bangladesh already has the laws, the data, and even a list of the nine indu
 category: Rivers & Water
 author: The Delta Desk and Shihab Sharear
 pubDate: 2026-06-08
-heroImage: /uploads/pexels-tariqul-35809228.jpg
+heroImage: /uploads/pexels-shardar-tarikul-islam-84327533-9090149.jpg
 heroCaption: 'Photo Credit: Pexels'
 featured: true
 draft: false
@@ -14,7 +14,7 @@ I have stopped being moved by World Environment Day. Every June the speeches arr
 
 I used to think the problem was that people did not know. That if we explained it well enough, showed the right photo of the right dead river, something would shift. I do not believe that anymore. Everyone knows. The minister knows. The man who owns the tannery upstream knows better than anyone. Awareness was never the thing we were short of.
 
-![](/uploads/pexels-shardar-tarikul-islam-84327533-9090149.jpg "Photo Credit: Pexels")
+![](/uploads/pexels-faisal-ibne-kalam-774996459-37115827.jpg "Photo Credit: Pexels")
 
 We even know the culprits by name. The Department of Environment has identified nine industrial zones around Dhaka as the main sources of what goes into our rivers. Nine. We have the list. The tanneries alone pour roughly 21,600 cubic metres of toxic waste into the Buriganga every single day, and the city tips in around 4,500 tonnes of solid waste on top of that, most of it ending up in the same water. This is not a mystery we are still trying to crack. We cracked it years ago. We just filed the answer away and moved on.
 
@@ -27,6 +27,8 @@ Studies keep turning up the same findings: stretches where the oxygen falls to a
 Here is the part nobody wants to say plainly. A law that no one is afraid of is not a law. It is a press release. We do not have a knowledge gap in this country. We have a skill gap. The inspection that does not happen. The fine that's quietly forgiven. The factory ordered shut is running again by Friday. That is the whole story, repeated until the river dies.
 
 And now, suddenly, the rivers are turning up in politics. Parties are writing them into their manifestos: river restoration and cleaner energy and the rest of it. I should be glad, and part of me is. After years of treating the environment as something we would get round to once we were rich enough, it's finally being treated as something a voter might care about.
+
+![](/uploads/pexels-swastikarora-18564992.jpg "Photo Credit: Pexels")
 
 But I keep tripping on the same thought. We already have the laws. We already have the list of nine zones. If the will to act existed, we would not need fresh promises. We would just use what's already sitting in the drawer.
 
