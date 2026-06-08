@@ -4,8 +4,8 @@ dek: Bangladesh already has the laws, the data, and even a list of the nine indu
 category: Rivers & Water
 author: The Delta Desk and Shihab Sharear
 pubDate: 2026-06-08
-heroImage: /uploads/austin-curtis-EBHbOzXnOAY-unsplash.jpg
-heroCaption: 'Photo Credit: Unsplash'
+heroImage: /uploads/pexels-tariqul-35809228.jpg
+heroCaption: 'Photo Credit: Pexels'
 featured: true
 draft: false
 ---
