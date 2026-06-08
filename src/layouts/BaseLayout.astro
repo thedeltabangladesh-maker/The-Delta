@@ -81,8 +81,14 @@ const navCats = CATEGORIES.slice(0, 5);
   <body>
     <div class="topbar">
       <div class="wrap">
-        <span class="today">{today}</span>
-        <span>Dhaka, Bangladesh</span>
+<span class="today" id="today-date"></span>
+<script is:inline>
+  document.getElementById('today-date').textContent =
+    new Date().toLocaleDateString('en-GB', {
+      weekday: 'long', day: 'numeric', month: 'long', year: 'numeric'
+    });
+</script>        
+<span>Dhaka, Bangladesh</span>
       </div>
     </div>
 
