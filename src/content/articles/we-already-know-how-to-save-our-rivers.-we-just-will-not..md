@@ -6,7 +6,7 @@ author: The Delta Desk and Shihab Sharear
 pubDate: 2026-06-08
 heroImage: /uploads/austin-curtis-EBHbOzXnOAY-unsplash.jpg
 heroCaption: 'Photo Credit: Unsplash'
-featured: false
+featured: true
 draft: false
 ---
 
