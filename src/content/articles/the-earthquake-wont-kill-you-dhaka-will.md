@@ -2,7 +2,7 @@
 title: The Earthquake Won't Kill You. Dhaka Will.
 dek: The ground has warned us twice in seven months. We have sixty rescuers, twenty-three million people, and a city built mostly without permission. Here is what a big one would actually do — and why almost none of it is the earthquake's fault.
 category: Policy & Governance
-author: The Delta Desk
+author: The Delta Desk and MD Shihab Sharear
 pubDate: 2026-06-10
 heroImage: /uploads/serzill-hasan-k4GxCWVO6eo-unsplash.jpg
 heroCaption: Serzill Hasan/Unsplash
@@ -18,7 +18,7 @@ Two earthquakes in seven months. Both felt across the capital. Both from the fau
 
 Resist it. Because the next part is the part nobody wants to say out loud: when the big one comes — and it is coming, the only question is when — the earthquake will not be what kills most of the people who die. The buildings will.
 
-![](/uploads/map-proximity%20%281%29.png "Distance rings centred on Dhaka, measured in true ground distance. The November 2025 earthquake struck inside the 25 km ring. The Madhupur Fault passes closer to the city than the quake did. Country boundaries and river network: Natural Earth (1:10m). Azimuthal-equidistant projection centred on 23.81°N, 90.41°E. Fault traces approximate. Graphic: The Delta.")
+![](/uploads/map-proximity%20%281%29.png)
 
 ## Three Plates, One City
 
