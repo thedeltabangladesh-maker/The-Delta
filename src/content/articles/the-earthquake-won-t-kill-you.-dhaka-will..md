@@ -3,7 +3,7 @@ title: The Earthquake Won't Kill You. Dhaka Will.
 dek: The ground has warned us twice in seven months. We have sixty rescuers, twenty-three million people, and a city built mostly without permission. Here is what a big one would actually do — and why almost none of it is the earthquake's fault.
 category: Policy & Governance
 author: The Delta Desk
-pubDate: 2026-06-10
+pubDate: 2026-06-11
 heroImage: /uploads/serzill-hasan-k4GxCWVO6eo-unsplash.jpg
 heroCaption: Serzill Hasan/Unsplash
 featured: true
