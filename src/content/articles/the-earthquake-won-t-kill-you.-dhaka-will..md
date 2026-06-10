@@ -6,7 +6,7 @@ author: The Delta Desk
 pubDate: 2026-06-10
 heroImage: /uploads/serzill-hasan-k4GxCWVO6eo-unsplash.jpg
 heroCaption: Serzill Hasan/Unsplash
-featured: false
+featured: true
 draft: false
 ---
 
