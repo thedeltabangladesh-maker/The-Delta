@@ -96,7 +96,7 @@ And here is what the same government, holding every page of this data, chose to 
 
 ![](/uploads/dhaka-risk-zones.png "Seismic risk zones across Dhaka's main neighbourhoods, based on RAJUK urban resilience mapping. Red (extreme risk) zones include Old Dhaka, Rampura, Badda, Bashundhara and Aftabnagar — the city's oldest and most densely built districts. Zone extents are indicative; neighbourhood positions are schematic, not surveyed boundaries. Source: risk-zone classification reported in Dhaka Tribune (2025), citing RAJUK Urban Resilience Project. Graphic: The Delta.")
 
-![](/uploads/chartC-density.png " Population of the worst-hit city in each comparable earthquake, drawn to proportional scale. Dhaka dwarfs every comparison. Population figures: Herat and Kathmandu at time of respective quakes; Dhaka metropolitan area per Bangladesh Bureau of Statistics (2022). Circle area scaled to population. Graphic: The Delta.")
+![](/uploads/chartC-density.png "Population of the worst-hit city in each comparable earthquake, drawn to proportional scale. Dhaka dwarfs every comparison. Population figures: Herat and Kathmandu at time of respective quakes; Dhaka metropolitan area per Bangladesh Bureau of Statistics (2022). Circle area scaled to population. Graphic: The Delta.")
 
 ## The Building in Mohakhali
 
@@ -134,29 +134,29 @@ So far, the answer is no one. That has to change before the ground changes it fo
 
 **[4]** Dauki Fault potential: _The Daily Campus_, November 2025; seismic literature.
 
-**[5]** Steckler, M.S. et al., "Locked and Loading Megathrust Linked to Active Subduction Beneath the Indo-Burman Ranges," _Nature Geoscience_, 9, 615–618 (2016). [https://doi.org/10.1038/ngeo2760](https://doi.org/10.1038/ngeo2760)
+\*\*[5]\*\* Steckler, M.S. et al., "Locked and Loading Megathrust Linked to Active Subduction Beneath the Indo-Burman Ranges," _Nature Geoscience_, 9, 615–618 (2016). [https://doi.org/10.1038/ngeo2760](https://doi.org/10.1038/ngeo2760)
 
 **[6]** Analysis of 6,412 earthquakes (1900–2023); Geological Survey of Bangladesh / Academia.edu (2023).
 
-**[7]** Red Cross UK, 16 October 2023. [https://www.redcross.org.uk/stories/disasters-and-emergencies/world/afghanistan-earthquake-2023](https://www.redcross.org.uk/stories/disasters-and-emergencies/world/afghanistan-earthquake-2023); CNN, 8 October 2023; UN OCHA, October 2023.
+\*\*[7]\*\* Red Cross UK, 16 October 2023. [https://www.redcross.org.uk/stories/disasters-and-emergencies/world/afghanistan-earthquake-2023](https://www.redcross.org.uk/stories/disasters-and-emergencies/world/afghanistan-earthquake-2023); CNN, 8 October 2023; UN OCHA, October 2023.
 
-**[8]** RAJUK / World Bank, _Urban Resilience Project (2015–2024)_; "RAJUK Itself Warns 40pc of Buildings Could Collapse in a Major Earthquake," _Prothom Alo (English)_, 25 November 2025. [https://en.prothomalo.com/bangladesh/city/v0uq2rlbx6](https://en.prothomalo.com/bangladesh/city/v0uq2rlbx6)
+\*\*[8]\*\* RAJUK / World Bank, _Urban Resilience Project (2015–2024)_; "RAJUK Itself Warns 40pc of Buildings Could Collapse in a Major Earthquake," _Prothom Alo (English)_, 25 November 2025. [https://en.prothomalo.com/bangladesh/city/v0uq2rlbx6](https://en.prothomalo.com/bangladesh/city/v0uq2rlbx6)
 
-**[9]** _Internet Geography_ / Nepal government figures. [https://www.internetgeography.net/geotopics/nepal-earthquake-2015](https://www.internetgeography.net/geotopics/nepal-earthquake-2015)
+\*\*[9]\*\* _Internet Geography_ / Nepal government figures. [https://www.internetgeography.net/geotopics/nepal-earthquake-2015](https://www.internetgeography.net/geotopics/nepal-earthquake-2015)
 
 **[10]** "Enforcement More Important Than Improving Building Code," _The Kathmandu Post_, 25 July 2015; Build Change, _Nepal Earthquake Reconnaissance Report_, October 2015.
 
 **[11]** _Dhaka Tribune_, 22 November 2025; _Observer BD_, 22 November 2025.
 
-**[12]** Prof Mehedi Ahmed Ansary, BUET; _Bonik Barta (English)_, 23 November 2025. [https://en.bonikbarta.com/bangladesh/N0xt9S4AEnGyOOcp](https://en.bonikbarta.com/bangladesh/N0xt9S4AEnGyOOcp)
+\*\*[12]\*\* Prof Mehedi Ahmed Ansary, BUET; _Bonik Barta (English)_, 23 November 2025. [https://en.bonikbarta.com/bangladesh/N0xt9S4AEnGyOOcp](https://en.bonikbarta.com/bangladesh/N0xt9S4AEnGyOOcp)
 
 **[13]** Ministry of Housing and Public Works compliance survey (2019); UN-Habitat, _Bangladesh Urban Assessment_ (2022).
 
-**[14]** _The Business Standard_, 24 November 2025. [https://www.tbsnews.net/bangladesh/earthquake-damages-300-buildings-dhaka-rajuk-inaction-irks-hc-1293076](https://www.tbsnews.net/bangladesh/earthquake-damages-300-buildings-dhaka-rajuk-inaction-irks-hc-1293076)
+\*\*[14]\*\* _The Business Standard_, 24 November 2025. [https://www.tbsnews.net/bangladesh/earthquake-damages-300-buildings-dhaka-rajuk-inaction-irks-hc-1293076](https://www.tbsnews.net/bangladesh/earthquake-damages-300-buildings-dhaka-rajuk-inaction-irks-hc-1293076)
 
 **[15]** KM Abdul Wadud, Additional Secretary, Ministry of Disaster Management; _Bonik Barta (English)_, 23 November 2025.
 
-**[16]** _Philippine Daily Inquirer_, 9 June 2026. [https://newsinfo.inquirer.net/2242307](https://newsinfo.inquirer.net/2242307); PBS NewsHour / AP, 9 June 2026.
+\*\*[16]\*\* _Philippine Daily Inquirer_, 9 June 2026. [https://newsinfo.inquirer.net/2242307](https://newsinfo.inquirer.net/2242307); PBS NewsHour / AP, 9 June 2026.
 
 **[17]** _Bonik Barta (English)_, 23 November 2025 [Special Rescue Team figures].
 
@@ -168,7 +168,7 @@ So far, the answer is no one. That has to change before the ground changes it fo
 
 **[21]** UN World Urbanization Prospects; Bangladesh Bureau of Statistics (2022).
 
-**[22]** _The Daily Star_, 17 December 2025. [https://www.thedailystar.net/opinion/views/news/rajuks-short-sighted-dap-puts-millions-risk-major-quake-4060091](https://www.thedailystar.net/opinion/views/news/rajuks-short-sighted-dap-puts-millions-risk-major-quake-4060091)
+\*\*[22]\*\* _The Daily Star_, 17 December 2025. [https://www.thedailystar.net/opinion/views/news/rajuks-short-sighted-dap-puts-millions-risk-major-quake-4060091](https://www.thedailystar.net/opinion/views/news/rajuks-short-sighted-dap-puts-millions-risk-major-quake-4060091)
 
 **[23]** _Prothom Alo (English)_, 25 November 2025 [USRI: Tk 150 crore building, Tk 100 crore equipment, 16-month idle period].
 
