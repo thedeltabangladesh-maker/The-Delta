@@ -44,16 +44,16 @@ El Niño didn't create any of these gaps. It's just going to test every one of t
 
 ***
 
-**[1]** World Meteorological Organization, "El Niño is forecast to intensify, increasing likelihood of extreme weather," July 2026. [https://wmo.int/news/media-centre/el-nino-forecast-intensify-increasing-likelihood-of-extreme-weather](https://wmo.int/news/media-centre/el-nino-forecast-intensify-increasing-likelihood-of-extreme-weather)
+\*\*[1]\*\* World Meteorological Organization, "El Niño is forecast to intensify, increasing likelihood of extreme weather," July 2026. [https://wmo.int/news/media-centre/el-nino-forecast-intensify-increasing-likelihood-of-extreme-weather](https://wmo.int/news/media-centre/el-nino-forecast-intensify-increasing-likelihood-of-extreme-weather)
 
-**[2]** _The Daily Star_, "Monsoon may arrive a week late: Met office," June 2026. [https://www.thedailystar.net/news/environment/weather/news/monsoon-may-arrive-week-late-met-office-4188086](https://www.thedailystar.net/news/environment/weather/news/monsoon-may-arrive-week-late-met-office-4188086)
+\*\*[2]\*\* _The Daily Star_, "Monsoon may arrive a week late: Met office," June 2026. [https://www.thedailystar.net/news/environment/weather/news/monsoon-may-arrive-week-late-met-office-4188086](https://www.thedailystar.net/news/environment/weather/news/monsoon-may-arrive-week-late-met-office-4188086)
 
-**[3]** _The Daily Star_, "Bangladesh may feel El Niño's heat, but not its full force," June 2026. [https://www.thedailystar.net/news/environment/weather/news/bangladesh-may-feel-el-ninos-heat-not-its-full-force-4189621](https://www.thedailystar.net/news/environment/weather/news/bangladesh-may-feel-el-ninos-heat-not-its-full-force-4189621)
+\*\*[3]\*\* _The Daily Star_, "Bangladesh may feel El Niño's heat, but not its full force," June 2026. [https://www.thedailystar.net/news/environment/weather/news/bangladesh-may-feel-el-ninos-heat-not-its-full-force-4189621](https://www.thedailystar.net/news/environment/weather/news/bangladesh-may-feel-el-ninos-heat-not-its-full-force-4189621)
 
-**[4]** Dr Rashed Chowdhury, Arizona State University; _The Daily Star_, "Bangladesh may not feel El Niño's full force," June 2026. [https://www.thedailystar.net/news/bangladesh/news/bangladesh-may-not-feel-el-ninos-full-force-4190136](https://www.thedailystar.net/news/bangladesh/news/bangladesh-may-not-feel-el-ninos-full-force-4190136)
+\*\*[4]\*\* Dr Rashed Chowdhury, Arizona State University; _The Daily Star_, "Bangladesh may not feel El Niño's full force," June 2026. [https://www.thedailystar.net/news/bangladesh/news/bangladesh-may-not-feel-el-ninos-full-force-4190136](https://www.thedailystar.net/news/bangladesh/news/bangladesh-may-not-feel-el-ninos-full-force-4190136)
 
-**[5]** PLOS ONE / PMC, "Growth and trend analysis of area, production and yield of rice: A scenario of rice security in Bangladesh," 2021. [https://pmc.ncbi.nlm.nih.gov/articles/PMC8664192/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8664192/)
+\*\*[5]\*\* PLOS ONE / PMC, "Growth and trend analysis of area, production and yield of rice: A scenario of rice security in Bangladesh," 2021. [https://pmc.ncbi.nlm.nih.gov/articles/PMC8664192/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8664192/)
 
-**[6]** PMC, "Intensity of adoption and welfare impacts of drought-tolerant rice varieties cultivation in Bangladesh." [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9127309/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9127309/)
+\*\*[6]\*\* PMC, "Intensity of adoption and welfare impacts of drought-tolerant rice varieties cultivation in Bangladesh." [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9127309/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9127309/)
 
-**[7]** _The Business Standard_, "Climate change threatens Bangladesh's economy as productivity declines: Speakers," June 2026. [https://www.tbsnews.net/bangladesh/environment/climate-change-threatens-bangladeshs-economy-productivity-declines-speakers](https://www.tbsnews.net/bangladesh/environment/climate-change-threatens-bangladeshs-economy-productivity-declines-speakers)
+\*\*[7]\*\* _The Business Standard_, "Climate change threatens Bangladesh's economy as productivity declines: Speakers," June 2026. [https://www.tbsnews.net/bangladesh/environment/climate-change-threatens-bangladeshs-economy-productivity-declines-speakers](https://www.tbsnews.net/bangladesh/environment/climate-change-threatens-bangladeshs-economy-productivity-declines-speakers)
