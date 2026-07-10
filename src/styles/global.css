@@ -389,6 +389,46 @@ nav.mainnav a[aria-current='page'] {
 .byline .dot {
   color: var(--line-strong);
 }
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-family: var(--font-ui);
+  color: var(--muted);
+  transition: color 0.15s ease;
+}
+.share-btn:hover {
+  color: var(--teal);
+}
+.share-btn--byline {
+  font-size: 0.85rem;
+}
+.share-icon {
+  display: block;
+}
+.share-btn--foot {
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--teal);
+}
+.share-btn--foot:hover {
+  color: var(--clay);
+}
+.share-confirm {
+  font-size: 0.78rem;
+  color: var(--clay);
+  font-style: italic;
+}
+.share-btn.is-confirmed .share-icon,
+.share-btn.is-confirmed span:not(.share-confirm) {
+  opacity: 0;
+}
 
 .hero-figure {
   width: min(100% - 2.5rem, var(--wide));
@@ -487,6 +527,10 @@ nav.mainnav a[aria-current='page'] {
   margin: 2.6rem auto 0;
   padding-top: 1.4rem;
   border-top: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 }
 .backlink {
   font-family: var(--font-ui);
