@@ -6,7 +6,7 @@ author: The Delta Desk
 pubDate: 2026-07-05
 heroImage: /uploads/ashraful-haque-akash-MuiC_cZL80Q-unsplash.jpg
 heroCaption: Ashraful Haque Akash/Unsplash
-featured: true
+featured: false
 draft: false
 ---
 
