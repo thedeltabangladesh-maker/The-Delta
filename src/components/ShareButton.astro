@@ -1,0 +1,59 @@
+---
+interface Props {
+  title: string;
+  variant?: 'byline' | 'foot';
+}
+const { title, variant = 'foot' } = Astro.props;
+---
+
+<button class={`share-btn share-btn--${variant}`} type="button" data-share-title={title}>
+  {variant === 'byline' ? (
+    <svg class="share-icon" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="18" cy="5" r="2.6"></circle>
+      <circle cx="6" cy="12" r="2.6"></circle>
+      <circle cx="18" cy="19" r="2.6"></circle>
+      <line x1="8.3" y1="10.7" x2="15.7" y2="6.3"></line>
+      <line x1="8.3" y1="13.3" x2="15.7" y2="17.7"></line>
+    </svg>
+  ) : (
+    <span>Share</span>
+  )}
+  <span class="share-confirm" aria-live="polite"></span>
+</button>
+
+<script>
+  function initShareButtons() {
+    document.querySelectorAll('.share-btn').forEach((btn) => {
+      if (btn.dataset.bound) return;
+      btn.dataset.bound = 'true';
+      btn.addEventListener('click', async () => {
+        const title = btn.dataset.shareTitle || document.title;
+        const url = window.location.href;
+        const confirmEl = btn.querySelector('.share-confirm');
+        if (navigator.share) {
+          try {
+            await navigator.share({ title, url });
+          } catch {
+            // user cancelled — do nothing
+          }
+        } else {
+          try {
+            await navigator.clipboard.writeText(url);
+            if (confirmEl) {
+              confirmEl.textContent = 'Link copied';
+              btn.classList.add('is-confirmed');
+              setTimeout(() => {
+                confirmEl.textContent = '';
+                btn.classList.remove('is-confirmed');
+              }, 1800);
+            }
+          } catch {
+            window.prompt('Copy this link:', url);
+          }
+        }
+      });
+    });
+  }
+  initShareButtons();
+  document.addEventListener('astro:page-load', initShareButtons);
+</script>
