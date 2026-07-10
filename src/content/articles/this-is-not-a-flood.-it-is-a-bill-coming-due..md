@@ -6,7 +6,7 @@ author: The Delta Desk and Shihab Sharear
 pubDate: 2026-07-10
 heroImage: /uploads/2022-06-18T115028Z_767422988_RC28UU90B5Z2_RTRMADP_3_BANGLADESH-FLOODS.webp
 heroCaption: 'Credit: Al Jazeera'
-featured: false
+featured: true
 draft: false
 ---
 
