@@ -10,7 +10,11 @@ featured: true
 draft: false
 ---
 
-Picture Katalganj on Tuesday morning: rickshaw-pullers wading chest-deep past shuttered shops, the road gone entirely, nothing left to steer by. Picture a ten-month-old boy in Jangal Salimpur, buried under a hillside that gave way at nine in the morning, his mother pulled out injured beside him.¹ Picture a thirteen-year-old girl on Chashma Hill, killed in a landslide that took less time than it will take you to read this sentence.¹ Four hundred and fifty thousand people marooned in their own district.² Twenty-three dead in three days, seven of them children.³ In Hamjarbagh, a resident named Zahid Islam told a reporter this happens every time it rains now, even a little — water in the road, water on his ground floor, nothing new about it at all.⁴ That's the part that should stop you. Not the disaster. The fact that it isn't one anymore. It's routine.
+Picture Katalganj on Tuesday morning: rickshaw-pullers wading chest-deep past shuttered shops, the road gone entirely, nothing left to steer by. Picture a ten-month-old boy in Jangal Salimpur, buried under a hillside that gave way at nine in the morning, his mother pulled out injured beside him.¹ 
+
+Picture a thirteen-year-old girl on Chashma Hill, killed in a landslide that took less time than it will take you to read this sentence.¹ Four hundred and fifty thousand people marooned in their own district.²
+
+ Twenty-three dead in three days, seven of them children.³ In Hamjarbagh, a resident named Zahid Islam told a reporter this happens every time it rains now, even a little — water in the road, water on his ground floor, nothing new about it at all.⁴ That's the part that should stop you. Not the disaster. The fact that it isn't one anymore. It's routine.
 
 Chattogram's monsoon this July has been the worst in four decades, by rainfall alone.⁵ Three hundred and thirty millimetres in a single day.⁶ It would be easy, and comforting, to leave it there. Freak weather. An act of God. Nobody to blame.
 
