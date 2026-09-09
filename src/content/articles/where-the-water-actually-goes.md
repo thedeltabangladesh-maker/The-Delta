@@ -4,8 +4,8 @@ dek: A glacier collapse in Nepal killed over a thousand people in August. The wa
 category: Climate & Adaptation
 author: The Delta Desk
 pubDate: ''
-heroImage: ''
-heroCaption: ''
+heroImage: /uploads/AP26246593763236-1788709337.webp
+heroCaption: Rajesh Kumar Singh/AP Photo
 featured: false
 draft: false
 ---
