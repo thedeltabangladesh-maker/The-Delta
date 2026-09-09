@@ -6,7 +6,7 @@ author: The Delta Desk
 pubDate: 2026-09-09
 heroImage: /uploads/AP26246593763236-1788709337.webp
 heroCaption: Rajesh Kumar Singh/AP Photo
-featured: false
+featured: true
 draft: false
 ---
 
