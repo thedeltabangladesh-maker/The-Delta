@@ -3,7 +3,7 @@ title: The Glacier That Fell on Nepal Might Also Be Bangladesh's Problem
 dek: A glacier collapse in Nepal killed over a thousand people in August. The water that caused it flows through the same mountain range as every major river Bangladesh depends on.
 category: Climate & Adaptation
 author: The Delta Desk
-pubDate: ''
+pubDate: 2026-09-09
 heroImage: /uploads/AP26246593763236-1788709337.webp
 heroCaption: Rajesh Kumar Singh/AP Photo
 featured: false
