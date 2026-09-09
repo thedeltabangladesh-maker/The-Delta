@@ -1,6 +1,6 @@
 ---
 title: ''
-dek: ''
+dek: A glacier collapse in Nepal killed over a thousand people in August. The water that caused it flows through the same mountain range as every major river Bangladesh depends on.
 category: Climate & Adaptation
 author: The Delta Desk
 pubDate: ''
